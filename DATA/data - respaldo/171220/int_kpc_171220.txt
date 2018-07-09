@@ -1,0 +1,10 @@
+[info]
+Anlage=SENA Bogota
+Datum=171220
+[messung]
+Timestamp;KPC;P_Reactive;CosPhi
+[Start]
+00:01:00;100;;1.000
+12:19:00;100;;1.000
+13:34:20;100;;1.000
+15:50:13;100;;1.000
