@@ -1,0 +1,8 @@
+<?php
+
+class usersSQL{
+    
+    const INSERT_NEW_REGISTER="INSERT INTO users (USERS_NAME,USERS_LAST_NAME,USERS_EMAIL,USERS_PASSWORD)VALUES(?,?,?,?)";
+    const QUERY_USER_LOGIN="SELECT * FROM users WHERE 	USERS_NICKNAME=  ?";
+    
+}

@@ -1,0 +1,26 @@
+[info]
+Anlage= SENA Bogota
+Datum= 171009
+Seriennummer= 798059 0313 108
+Softwareversion= Kaco(V2.41/B1.68)
+
+[ana]
+;W_V0;G_M0;T_U0;T_M0;T_M13;T_M14;T_M15
+;m/s;W/m²;°C;°C;°C;°C;°C
+min;-4.0;494;162.4;;;;
+max;-3.7;1842;162.4;;;;
+mean;-3.8;670;162.4;;;;
+
+[dig]
+
+[I'Checker]
+
+[Energía diaria del inversor]
+;Direccion;Energia diaria [Wh]
+;INV1;10838
+;INV2;10952
+;INV3;11387
+;INV4;11485
+
+;;Suma de energía [Wh]
+;;44662
