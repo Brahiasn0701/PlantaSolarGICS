@@ -1,6 +1,6 @@
 <?php
 session_start();
-define("APP_URL","http://localhost/Proyects/PlantaSolarGICS/");
+define("APP_URL","http://localhost/PlantaSolarGICS/");
 require_once 'model/File.php';
 require_once 'model/FileSQL.php';
 require_once 'model/Database.php';

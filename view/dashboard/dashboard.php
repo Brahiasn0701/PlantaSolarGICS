@@ -57,7 +57,9 @@
                                         </div>
                                         <hr>
                                         <p class="lead">Consultas</p>
-                                        <button type="button" class="btn btn-outline-primary">Dia</button>
+                                        <form action="?c=files&m=FileAnalicerINTANA" method="POST">
+                                            <button type="submit" class="btn btn-outline-primary">Dia</button>
+                                        </form>
                                         <button type="button" class="btn btn-outline-primary">Mes</button>
                                         <button type="button" class="btn btn-outline-primary">Año</button>
                                         <button type="button" class="btn btn-outline-primary">Por Voltaje</button>

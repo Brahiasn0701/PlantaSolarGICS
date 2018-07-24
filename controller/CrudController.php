@@ -16,11 +16,11 @@ class CrudController{
          */
         if($_REQUEST['table']=="int_kwr"){
             $data=array(
-                  "INT_KWR_DATE"=>$_REQUEST['INT_KWR_DATE'],
-                  "INT_KWR_TIME"=>$_REQUEST['INT_KWR_TIME'],
+                "INT_KWR_DATE"=>$_REQUEST['INT_KWR_DATE'],
+                "INT_KWR_TIME"=>$_REQUEST['INT_KWR_TIME'],
                 "INT_KWR_S"=>$_REQUEST['INT_KWR_S'],
                 "INT_KWR_TECHNOLOGY"=>$_REQUEST['INT_KWR_TECHNOLOGY'],
-                   "INT_KWR_KPC"=>$_REQUEST['INT_KWR_KPC'],
+                "INT_KWR_KPC"=>$_REQUEST['INT_KWR_KPC'],
                 "INT_KWR_U_DC_V"=>$_REQUEST['INT_KWR_U_DC_V'],
                 "INT_KWR_I_DC_A"=>$_REQUEST['INT_KWR_I_DC_A'],
                 "INT_KWR_P_DC_W"=>$_REQUEST['INT_KWR_P_DC_W'],
