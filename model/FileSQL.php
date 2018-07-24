@@ -12,5 +12,5 @@ class FileSQL{
                                                       INT_ANA_T_M14,
                                                       INT_ANA_T_M15)VALUES(?,?,?,?,?,?,?,?,?)";
     
-    
+    const INSERT_TABLE_INT_KWR = "INSERT INTO int_kwr";
 }
