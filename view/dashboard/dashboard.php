@@ -57,7 +57,7 @@
                                         </div>
                                         <hr>
                                         <p class="lead">Consultas</p>
-                                        <form action="?c=files&m=FileAnalicerINTANA" method="POST">
+                                        <form action="?c=files&m=FileAnalicerINTKWR" method="POST">
                                             <button type="submit" class="btn btn-outline-primary">Dia</button>
                                         </form>
                                         <button type="button" class="btn btn-outline-primary">Mes</button>
