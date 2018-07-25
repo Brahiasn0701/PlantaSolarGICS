@@ -11,18 +11,18 @@ function drawBasic() {
     data.addColumn('timeofday', 'X');
     data.addColumn('number', 'Voltaje');
     data.addRows([
-        [{v: [12, 0, 0], f: '8 am'}, 0],
-        [{v: [13, 0, 0], f: '9 am'}, 1.2],
-        [{v: [14, 0, 0], f:'10 am'}, 0.8],
-        [{v: [15, 0, 0], f: '11 am'}, 1.8]
+        [{v: [5, 0, 0], f: '5 am'}, 0],
+        [{v: [6, 0, 0], f: '6 am'}, 1.2],
+        [{v: [9, 0, 0], f:'9 am'}, 0.8],
+        [{v: [11, 0, 0], f: '11 am'}, 1.8]
       ]);
     var options = {
     hAxis: {    
         title: f.getDate() + " de " + Mouth[f.getMonth() + 1] + " del " + f.getFullYear(),
         format: 'h:mm a',
         viewWindow: {
-            min: [f.getHours() - 6, f.getMinutes(), f.getMinutes()],
-            max: [f.getHours(), f.getMinutes(), f.getSeconds()]
+            min: [f.getHours() - 6, 0, 0],
+            max: [f.getHours(), 0, 0]
         }
     },
     vAxis: {
