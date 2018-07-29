@@ -1,0 +1,13 @@
+Planta Solar 
+
+1. Limpiar archvivos de palabra clave info, y quitar espacion en blanco de ultima linea.
+2. Realizar insercion
+3. Realizar consultar
+4. Realizar seleccion de que archivo desea buscar 
+5. Consultas por dia y algoritmo con java script y Json para graficar 
+6. Demas consultas por fecha, año, mes, etc.
+7. Consultas por tipos de corriente, alterna o directa y sus respectivos voltajes, amperios y vatios.
+8. Graficar todas las consultas en google chart 
+9. Consulta para exportar los datos 
+10. Exportar los datos en archivo excel
+11. Exportar graficas. 
