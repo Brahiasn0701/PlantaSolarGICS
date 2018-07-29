@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="platasolar@localhost" uuid="57ed9c17-5e59-44f6-b03a-a0f2577226df">
+    <data-source source="LOCAL" name="platasolar@localhost" uuid="1e2a2c69-4c76-461e-baff-91e65e87b14e">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
