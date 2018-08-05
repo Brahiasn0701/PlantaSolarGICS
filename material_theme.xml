@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.7.0" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
     <option name="userId" value="4eabb3d2:164809b84a0:-8000" />
     <option name="isHighContrast" value="true" />
   </component>
