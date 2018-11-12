@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sqlite" type="Native" />
-      <mapping pattern="app.js" type="PLAIN_TEXT" />
+      <mapping pattern=".sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
